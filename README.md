@@ -4,6 +4,8 @@ An operating philosophy for building companies, products and systems by staying 
 
 > **False 9:** a position-flexible operator who maintains broad system context, moves toward the current highest-leverage constraint, rapidly acquires the necessary domain understanding, makes a targeted intervention, encodes the resulting knowledge into the system, transfers execution, and moves again.
 
+> **False 9:** a positionless operator who reads the system as a whole, identifies where their presence creates the most leverage, enters that position, changes the state of the system, and moves again.
+
 A generalist asks:
 
 **What can I do?**
