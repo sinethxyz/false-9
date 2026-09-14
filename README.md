@@ -23,3 +23,9 @@ The idea is simple: hold enough context to understand the field, synthesise and 
 [False 9: How I Build Companies, Products and Systems](./essay.md)
 
 Written by Sineth Madduma.
+
+## License
+
+This work is licensed under the [Creative Commons Attribution 4.0 International License](./LICENSE) (CC BY 4.0).
+
+You are free to share, adapt, remix, and build upon the work, including commercially, provided appropriate attribution is given to Sineth Madduma and the original work.
