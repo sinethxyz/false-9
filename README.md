@@ -18,6 +18,21 @@ The idea is simple: hold enough context to understand the field, synthesise and 
 
 **Be present. Read the field. Find the highest leverage constraint. Make one move. Make it count. Release the ball. Read the new field. Move again.**
 
+## The mapping
+
+| Football | Systems |
+| --- | --- |
+| Field | System |
+| Position | Function / role |
+| Ball | Current work / attention |
+| Space | Opportunity |
+| Defender / pressure | Constraint |
+| Movement | Reallocating yourself |
+| Passing | Transferring execution |
+| Reading the game | Maintaining system context |
+
+The metaphor is not about football language for its own sake. The geometry is the same: read the whole field, understand where pressure and space exist, move toward the point where your presence creates the most leverage, change the state of the system, release execution, and read the field again.
+
 ## Read the essay
 
 [False 9: How I Build Companies, Products and Systems](./essay.md)
