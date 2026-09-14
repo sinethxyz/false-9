@@ -2,6 +2,8 @@
 
 An operating philosophy for building companies, products and systems by staying present, reading the field, finding the highest leverage constraint, and moving where the system needs you most.
 
+> **False 9:** a position-flexible operator who maintains broad system context, moves toward the current highest-leverage constraint, rapidly acquires the necessary domain understanding, makes a targeted intervention, encodes the resulting knowledge into the system, transfers execution, and moves again.
+
 A generalist asks:
 
 **What can I do?**
