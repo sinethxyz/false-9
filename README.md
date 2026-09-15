@@ -347,3 +347,5 @@ The moment False 9 becomes a fixed box on an organisational chart, it contradict
 If you ask where the False 9 sits, the answer is simple:
 
 **Read the field.**
+
+**A False 9 reports only to reality.**
