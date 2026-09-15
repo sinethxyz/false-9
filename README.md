@@ -305,3 +305,27 @@ Written by Sineth Madduma.
 This work is licensed under the [Creative Commons Attribution 4.0 International License](./LICENSE) (CC BY 4.0).
 
 You are free to share, adapt, remix, and build upon the work, including commercially, provided appropriate attribution is given to Sineth Madduma and the original work.
+
+## What is a False 9?
+
+In football, the number 9 is traditionally the centre forward, the player expected to remain high, occupy defenders and provide the central attacking threat.
+
+A False 9 begins in that position but refuses to be defined by it.
+
+They drop into midfield, move between lines, occupy unexpected spaces and continuously reposition according to the state of the game.
+
+This creates a problem for the opposition.
+
+If a defender follows, space opens behind them for someone else.
+
+If the defender stays, the False 9 can receive freely in the space they have entered.
+
+The value of the movement is therefore not only what the False 9 can do from the new position. It is also how their positioning changes the geometry of the field and what becomes possible for everyone else.
+
+The role requires awareness of the whole game: where the ball is, where pressure is coming from, where space is opening, how other players are moving and what the next phase of play is likely to become.
+
+The False 9 still has an objective.
+
+They simply refuse to confuse the objective with a fixed position.
+
+**That is why this is called False 9.**
