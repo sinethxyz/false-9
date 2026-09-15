@@ -122,6 +122,8 @@ For now, I have the field in front of me.
 
 **Looking forwards, read the field.**
 
+**They are the twin children of reality.**
+
 That is why I needed False 9.
 
 Written by Sineth Madduma.
