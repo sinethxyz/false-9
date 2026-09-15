@@ -329,3 +329,21 @@ The False 9 still has an objective.
 They simply refuse to confuse the objective with a fixed position.
 
 **That is why this is called False 9.**
+
+## Not on the org chart
+
+False 9 is not a title above CEO, founder, engineer, designer or any other function.
+
+It is not a level in a hierarchy.
+
+It describes how an operator relates to positions, not which position they permanently occupy.
+
+A CEO can operate as a False 9. So can an engineer, a designer, a founder or someone with no formal title at all.
+
+The moment False 9 becomes a fixed box on an organisational chart, it contradicts itself.
+
+**False 9 is not above the org chart. False 9 is not on the org chart.**
+
+If you ask where the False 9 sits, the answer is simple:
+
+**Read the field.**
