@@ -18,6 +18,26 @@ The idea is simple: hold enough context to understand the field, synthesise and 
 
 **Be present. Read the field. Find the highest leverage constraint. Make one move. Make it count. Release the ball. Read the new field. Move again.**
 
+## Read before you move
+
+A False 9 does not move for the sake of movement.
+
+Movement is useful only when repositioning creates more leverage than remaining where you are. Sometimes the correct move is to hold position. Sometimes it is to transfer execution and leave the play entirely. Sometimes the system is already working and intervention would only make it worse.
+
+**The objective is not movement. The objective is correct positioning.**
+
+Positionless does not mean restless. A player who follows the ball everywhere is not reading the game; they are reacting to it.
+
+The False 9 moves selectively. Every movement should have a reason: create space, occupy space, relieve pressure, exploit an opportunity, or alter the state of the system. If none of those conditions exist, movement may reduce leverage rather than create it.
+
+There are three legitimate responses to reading the field:
+
+- **Move** — another position now offers greater leverage.
+- **Stay** — the current position remains the highest-leverage place to be.
+- **Release** — your presence is no longer required; transfer execution and leave the play.
+
+**Sometimes the highest-leverage move is no move at all.**
+
 ## The mapping
 
 | Football | Systems |
