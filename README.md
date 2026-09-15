@@ -200,6 +200,30 @@ You observe the geometry, infer incentives, form an understanding, position, act
 
 A False 9 is not defined by always reading the field correctly. They are defined by remaining responsive when the field proves the model wrong.
 
+## Accept uncertainty
+
+The field can never be known completely.
+
+Information is incomplete. Other actors have agency. Incentives change. The geometry moves. Every intervention contains uncertainty.
+
+The objective is therefore not certainty before action. It is sufficient understanding for the next decision and enough responsiveness to correct it when reality changes.
+
+Fear is part of that information.
+
+Fear can reveal genuine risk, missing understanding, meaningful stakes or territory you have avoided because the outcome is uncertain.
+
+**Use fear as a compass, not a command.**
+
+Follow it far enough to understand what it is pointing toward. Then read the geometry, understand the incentives and test your interpretation against reality.
+
+Sometimes fear points toward danger. Sometimes it points toward growth. Sometimes it points toward nothing more than uncertainty.
+
+**Do not obey fear. Do not ignore it. Read it.**
+
+Then make the move the field actually supports.
+
+You do not need certainty to move. You need enough understanding to make the next move and enough awareness to update when reality changes.
+
 ## The operating loop
 
 **Objective**
@@ -246,7 +270,7 @@ A False 9 is not defined by always reading the field correctly. They are defined
 
 In practice:
 
-**Be present. Read the geometry. Understand the incentives. Position correctly. Make one move. Make it count. Release the ball when someone else is better positioned. Observe reality. Update the model. Read the new field.**
+**Be present. Read the geometry. Understand the incentives. Accept uncertainty. Position correctly. Make one move. Make it count. Release the ball when someone else is better positioned. Observe reality. Update the model. Read the new field.**
 
 ## The principles
 
@@ -265,6 +289,10 @@ In practice:
 **Possession is not the objective.**
 
 **The field outranks the model.**
+
+**Accept uncertainty. Use fear as a compass, not a command.**
+
+**Do not obey fear. Do not ignore it. Read it.**
 
 ## Read the essay
 
