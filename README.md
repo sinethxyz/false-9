@@ -1,8 +1,8 @@
 # False 9
 
-An operating philosophy for building companies, products and systems by staying present, reading the field, understanding its geometry, and positioning yourself where your presence creates the most leverage.
+An operating philosophy for building companies, products and systems by staying present, reading the field, understanding its geometry and incentives, and positioning yourself according to reality.
 
-> **False 9:** an operator who maintains a model of the whole field and allocates their presence, attention and execution according to the geometry of the system rather than a fixed functional identity.
+> **False 9:** an operator who maintains a model of the whole field and allocates their presence, attention and execution according to the geometry, incentives and reality of the system rather than a fixed functional identity.
 
 A generalist asks:
 
@@ -12,11 +12,39 @@ A False 9 asks:
 
 **What does the field need?**
 
-The idea is simple: hold enough context to understand the field, read pressure and space, understand where the system is and where it is going, position yourself where your presence creates the greatest favourable change, act when necessary, transfer execution when someone else is better positioned, then read the new field.
+The idea is simple: hold enough context to understand the field, read pressure and space, understand where the system is and where it is going, understand what causes the actors within it to move, position yourself where your presence creates the greatest favourable change, act when necessary, transfer execution when someone else is better positioned, then read the new field.
 
 **Do not chase the ball. Read the field.**
 
 **The objective is not movement. The objective is correct positioning.**
+
+## The two centres of gravity
+
+False 9 has two centres of gravity.
+
+### Geometry
+
+Geometry describes the configuration of the system and the relationships within it.
+
+Where are the players? Where is the ball? Where is pressure accumulating? Where is space opening? What phase is the system in? What changes elsewhere if you move?
+
+Geometry tells you what can happen.
+
+### Reality and incentives
+
+Reality and incentives describe the forces that determine what actually happens.
+
+Actors are not static pieces. They respond to rewards, costs, ownership, status, information, risk, pressure, opportunity and the behaviour of other actors.
+
+A position that appears perfect in a diagram can fail completely if the incentives produce different behaviour.
+
+Reality then determines whether your understanding of both the geometry and the incentives was correct.
+
+**Geometry tells you what can happen. Incentives tell you what is likely to happen. Reality tells you what did happen.**
+
+The False 9 sits between them.
+
+**Read geometry. Understand incentives. Test against reality. Position accordingly.**
 
 ## The geometry
 
@@ -42,6 +70,26 @@ The False 9 does not necessarily move toward the largest problem. Sometimes movi
 
 **Leverage is the favourable change in system geometry created by your positioning.**
 
+## Incentives move players
+
+Geometry describes where actors are. Incentives help explain where they will move.
+
+A False 9 therefore asks not only:
+
+**What happens if I move?**
+
+but also:
+
+**What will make everyone else move?**
+
+In football, dropping into space can create an incentive for a defender to follow. If they follow, space opens behind them. If they stay, space remains available between the lines. The value of the movement comes partly from the response it creates.
+
+The same principle applies to systems. People respond to incentives, constraints, information and available choices. Changing the state of a system often means changing the conditions under which other actors make decisions.
+
+The False 9 does not treat people as pieces to be moved. Other actors have agency. The aim is to understand the forces shaping behaviour well enough to anticipate how the geometry may change.
+
+**Positioning changes incentives. Incentives change movement. Movement changes geometry.**
+
 ## Pressure and space
 
 A False 9 reads both pressure and space.
@@ -62,7 +110,7 @@ A field is not static.
 
 The same position can have different value depending on the phase of play. Correct positioning depends not only on where the system is now, but on its trajectory.
 
-A False 9 reads emerging pressure, opening space, changing ownership, the movement of other actors and the likely next state of the system.
+A False 9 reads emerging pressure, opening space, changing ownership, the movement of other actors, their incentives and the likely next state of the system.
 
 The aim is not merely to react quickly. It is to understand the developing geometry well enough to position before the obvious need arrives.
 
@@ -144,7 +192,7 @@ The field determines where you should play. The objective determines why the fie
 
 Reading the field means maintaining a model of reality, not assuming that model is reality.
 
-You observe the field, form an understanding, position, act and watch what actually changes. If the field behaves differently from what you expected, update the model.
+You observe the geometry, infer incentives, form an understanding, position, act and watch what actually changes. If the field behaves differently from what you expected, update the model.
 
 **The field outranks the model.**
 
@@ -158,7 +206,11 @@ A False 9 is not defined by always reading the field correctly. They are defined
 
 ↓
 
-**Read**
+**Read geometry**
+
+↓
+
+**Understand incentives**
 
 ↓
 
@@ -182,7 +234,11 @@ A False 9 is not defined by always reading the field correctly. They are defined
 
 ↓
 
-**Observe**
+**Observe reality**
+
+↓
+
+**Update**
 
 ↓
 
@@ -190,13 +246,15 @@ A False 9 is not defined by always reading the field correctly. They are defined
 
 In practice:
 
-**Be present. Read the field. Understand the geometry. Position correctly. Make one move. Make it count. Release the ball when someone else is better positioned. Observe what changed. Read the new field.**
+**Be present. Read the geometry. Understand the incentives. Position correctly. Make one move. Make it count. Release the ball when someone else is better positioned. Observe reality. Update the model. Read the new field.**
 
 ## The principles
 
 **Do not chase the ball. Read the field.**
 
 **The objective is not movement. The objective is correct positioning.**
+
+**Geometry tells you what can happen. Incentives tell you what is likely to happen. Reality tells you what did happen.**
 
 **Position is dynamic. Objective is comparatively stable.**
 
